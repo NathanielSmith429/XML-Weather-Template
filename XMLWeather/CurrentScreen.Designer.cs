@@ -155,7 +155,7 @@
             this.windsLabel.BackColor = System.Drawing.Color.Transparent;
             this.windsLabel.Font = new System.Drawing.Font("Berlin Sans FB", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.windsLabel.ForeColor = System.Drawing.Color.White;
-            this.windsLabel.Location = new System.Drawing.Point(37, 566);
+            this.windsLabel.Location = new System.Drawing.Point(36, 507);
             this.windsLabel.Name = "windsLabel";
             this.windsLabel.Size = new System.Drawing.Size(432, 48);
             this.windsLabel.TabIndex = 45;
@@ -167,7 +167,7 @@
             this.humidityLabel.BackColor = System.Drawing.Color.Transparent;
             this.humidityLabel.Font = new System.Drawing.Font("Berlin Sans FB", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.humidityLabel.ForeColor = System.Drawing.Color.White;
-            this.humidityLabel.Location = new System.Drawing.Point(37, 624);
+            this.humidityLabel.Location = new System.Drawing.Point(36, 555);
             this.humidityLabel.Name = "humidityLabel";
             this.humidityLabel.Size = new System.Drawing.Size(432, 48);
             this.humidityLabel.TabIndex = 46;

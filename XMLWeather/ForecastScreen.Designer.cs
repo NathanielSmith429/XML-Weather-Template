@@ -101,11 +101,11 @@
             // 
             this.dayLabel0.AutoSize = true;
             this.dayLabel0.BackColor = System.Drawing.Color.Transparent;
-            this.dayLabel0.Font = new System.Drawing.Font("Berlin Sans FB", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dayLabel0.Font = new System.Drawing.Font("Berlin Sans FB", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dayLabel0.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.dayLabel0.Location = new System.Drawing.Point(32, 110);
+            this.dayLabel0.Location = new System.Drawing.Point(15, 107);
             this.dayLabel0.Name = "dayLabel0";
-            this.dayLabel0.Size = new System.Drawing.Size(73, 26);
+            this.dayLabel0.Size = new System.Drawing.Size(90, 32);
             this.dayLabel0.TabIndex = 64;
             this.dayLabel0.Text = "Today";
             // 
@@ -113,11 +113,11 @@
             // 
             this.dayLabel1.AutoSize = true;
             this.dayLabel1.BackColor = System.Drawing.Color.Transparent;
-            this.dayLabel1.Font = new System.Drawing.Font("Berlin Sans FB", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dayLabel1.Font = new System.Drawing.Font("Berlin Sans FB", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dayLabel1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.dayLabel1.Location = new System.Drawing.Point(32, 207);
+            this.dayLabel1.Location = new System.Drawing.Point(15, 204);
             this.dayLabel1.Name = "dayLabel1";
-            this.dayLabel1.Size = new System.Drawing.Size(73, 26);
+            this.dayLabel1.Size = new System.Drawing.Size(90, 32);
             this.dayLabel1.TabIndex = 65;
             this.dayLabel1.Text = "Today";
             // 
@@ -125,11 +125,11 @@
             // 
             this.dayLabel2.AutoSize = true;
             this.dayLabel2.BackColor = System.Drawing.Color.Transparent;
-            this.dayLabel2.Font = new System.Drawing.Font("Berlin Sans FB", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dayLabel2.Font = new System.Drawing.Font("Berlin Sans FB", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dayLabel2.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.dayLabel2.Location = new System.Drawing.Point(32, 306);
+            this.dayLabel2.Location = new System.Drawing.Point(15, 303);
             this.dayLabel2.Name = "dayLabel2";
-            this.dayLabel2.Size = new System.Drawing.Size(73, 26);
+            this.dayLabel2.Size = new System.Drawing.Size(90, 32);
             this.dayLabel2.TabIndex = 66;
             this.dayLabel2.Text = "Today";
             // 
@@ -137,11 +137,11 @@
             // 
             this.dayLabel3.AutoSize = true;
             this.dayLabel3.BackColor = System.Drawing.Color.Transparent;
-            this.dayLabel3.Font = new System.Drawing.Font("Berlin Sans FB", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dayLabel3.Font = new System.Drawing.Font("Berlin Sans FB", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dayLabel3.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.dayLabel3.Location = new System.Drawing.Point(32, 393);
+            this.dayLabel3.Location = new System.Drawing.Point(15, 390);
             this.dayLabel3.Name = "dayLabel3";
-            this.dayLabel3.Size = new System.Drawing.Size(73, 26);
+            this.dayLabel3.Size = new System.Drawing.Size(90, 32);
             this.dayLabel3.TabIndex = 67;
             this.dayLabel3.Text = "Today";
             // 
@@ -149,11 +149,11 @@
             // 
             this.dayLabel4.AutoSize = true;
             this.dayLabel4.BackColor = System.Drawing.Color.Transparent;
-            this.dayLabel4.Font = new System.Drawing.Font("Berlin Sans FB", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dayLabel4.Font = new System.Drawing.Font("Berlin Sans FB", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dayLabel4.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.dayLabel4.Location = new System.Drawing.Point(32, 492);
+            this.dayLabel4.Location = new System.Drawing.Point(15, 489);
             this.dayLabel4.Name = "dayLabel4";
-            this.dayLabel4.Size = new System.Drawing.Size(73, 26);
+            this.dayLabel4.Size = new System.Drawing.Size(90, 32);
             this.dayLabel4.TabIndex = 68;
             this.dayLabel4.Text = "Today";
             // 
@@ -161,11 +161,11 @@
             // 
             this.dayLabel5.AutoSize = true;
             this.dayLabel5.BackColor = System.Drawing.Color.Transparent;
-            this.dayLabel5.Font = new System.Drawing.Font("Berlin Sans FB", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dayLabel5.Font = new System.Drawing.Font("Berlin Sans FB", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dayLabel5.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.dayLabel5.Location = new System.Drawing.Point(32, 585);
+            this.dayLabel5.Location = new System.Drawing.Point(15, 582);
             this.dayLabel5.Name = "dayLabel5";
-            this.dayLabel5.Size = new System.Drawing.Size(73, 26);
+            this.dayLabel5.Size = new System.Drawing.Size(90, 32);
             this.dayLabel5.TabIndex = 69;
             this.dayLabel5.Text = "Today";
             // 
@@ -173,11 +173,11 @@
             // 
             this.dayLabel6.AutoSize = true;
             this.dayLabel6.BackColor = System.Drawing.Color.Transparent;
-            this.dayLabel6.Font = new System.Drawing.Font("Berlin Sans FB", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dayLabel6.Font = new System.Drawing.Font("Berlin Sans FB", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dayLabel6.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.dayLabel6.Location = new System.Drawing.Point(32, 683);
+            this.dayLabel6.Location = new System.Drawing.Point(15, 680);
             this.dayLabel6.Name = "dayLabel6";
-            this.dayLabel6.Size = new System.Drawing.Size(73, 26);
+            this.dayLabel6.Size = new System.Drawing.Size(90, 32);
             this.dayLabel6.TabIndex = 70;
             this.dayLabel6.Text = "Today";
             // 
@@ -185,11 +185,11 @@
             // 
             this.dayMax0.AutoSize = true;
             this.dayMax0.BackColor = System.Drawing.Color.Transparent;
-            this.dayMax0.Font = new System.Drawing.Font("Berlin Sans FB", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dayMax0.Font = new System.Drawing.Font("Berlin Sans FB", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dayMax0.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.dayMax0.Location = new System.Drawing.Point(268, 101);
+            this.dayMax0.Location = new System.Drawing.Point(278, 97);
             this.dayMax0.Name = "dayMax0";
-            this.dayMax0.Size = new System.Drawing.Size(159, 35);
+            this.dayMax0.Size = new System.Drawing.Size(199, 44);
             this.dayMax0.TabIndex = 78;
             this.dayMax0.Text = "tempature";
             // 
@@ -197,11 +197,11 @@
             // 
             this.dayMax1.AutoSize = true;
             this.dayMax1.BackColor = System.Drawing.Color.Transparent;
-            this.dayMax1.Font = new System.Drawing.Font("Berlin Sans FB", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dayMax1.Font = new System.Drawing.Font("Berlin Sans FB", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dayMax1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.dayMax1.Location = new System.Drawing.Point(268, 198);
+            this.dayMax1.Location = new System.Drawing.Point(278, 194);
             this.dayMax1.Name = "dayMax1";
-            this.dayMax1.Size = new System.Drawing.Size(159, 35);
+            this.dayMax1.Size = new System.Drawing.Size(199, 44);
             this.dayMax1.TabIndex = 79;
             this.dayMax1.Text = "tempature";
             // 
@@ -209,11 +209,11 @@
             // 
             this.dayMax2.AutoSize = true;
             this.dayMax2.BackColor = System.Drawing.Color.Transparent;
-            this.dayMax2.Font = new System.Drawing.Font("Berlin Sans FB", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dayMax2.Font = new System.Drawing.Font("Berlin Sans FB", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dayMax2.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.dayMax2.Location = new System.Drawing.Point(268, 298);
+            this.dayMax2.Location = new System.Drawing.Point(278, 294);
             this.dayMax2.Name = "dayMax2";
-            this.dayMax2.Size = new System.Drawing.Size(159, 35);
+            this.dayMax2.Size = new System.Drawing.Size(199, 44);
             this.dayMax2.TabIndex = 80;
             this.dayMax2.Text = "tempature";
             // 
@@ -221,11 +221,11 @@
             // 
             this.dayMax3.AutoSize = true;
             this.dayMax3.BackColor = System.Drawing.Color.Transparent;
-            this.dayMax3.Font = new System.Drawing.Font("Berlin Sans FB", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dayMax3.Font = new System.Drawing.Font("Berlin Sans FB", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dayMax3.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.dayMax3.Location = new System.Drawing.Point(268, 384);
+            this.dayMax3.Location = new System.Drawing.Point(278, 380);
             this.dayMax3.Name = "dayMax3";
-            this.dayMax3.Size = new System.Drawing.Size(159, 35);
+            this.dayMax3.Size = new System.Drawing.Size(199, 44);
             this.dayMax3.TabIndex = 81;
             this.dayMax3.Text = "tempature";
             // 
@@ -233,11 +233,11 @@
             // 
             this.dayMax4.AutoSize = true;
             this.dayMax4.BackColor = System.Drawing.Color.Transparent;
-            this.dayMax4.Font = new System.Drawing.Font("Berlin Sans FB", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dayMax4.Font = new System.Drawing.Font("Berlin Sans FB", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dayMax4.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.dayMax4.Location = new System.Drawing.Point(268, 484);
+            this.dayMax4.Location = new System.Drawing.Point(278, 480);
             this.dayMax4.Name = "dayMax4";
-            this.dayMax4.Size = new System.Drawing.Size(159, 35);
+            this.dayMax4.Size = new System.Drawing.Size(199, 44);
             this.dayMax4.TabIndex = 82;
             this.dayMax4.Text = "tempature";
             // 
@@ -245,11 +245,11 @@
             // 
             this.dayMax5.AutoSize = true;
             this.dayMax5.BackColor = System.Drawing.Color.Transparent;
-            this.dayMax5.Font = new System.Drawing.Font("Berlin Sans FB", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dayMax5.Font = new System.Drawing.Font("Berlin Sans FB", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dayMax5.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.dayMax5.Location = new System.Drawing.Point(268, 576);
+            this.dayMax5.Location = new System.Drawing.Point(278, 572);
             this.dayMax5.Name = "dayMax5";
-            this.dayMax5.Size = new System.Drawing.Size(159, 35);
+            this.dayMax5.Size = new System.Drawing.Size(199, 44);
             this.dayMax5.TabIndex = 83;
             this.dayMax5.Text = "tempature";
             // 
@@ -257,11 +257,11 @@
             // 
             this.dayMax6.AutoSize = true;
             this.dayMax6.BackColor = System.Drawing.Color.Transparent;
-            this.dayMax6.Font = new System.Drawing.Font("Berlin Sans FB", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dayMax6.Font = new System.Drawing.Font("Berlin Sans FB", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dayMax6.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.dayMax6.Location = new System.Drawing.Point(268, 675);
+            this.dayMax6.Location = new System.Drawing.Point(278, 671);
             this.dayMax6.Name = "dayMax6";
-            this.dayMax6.Size = new System.Drawing.Size(159, 35);
+            this.dayMax6.Size = new System.Drawing.Size(199, 44);
             this.dayMax6.TabIndex = 84;
             this.dayMax6.Text = "tempature";
             // 
@@ -280,7 +280,7 @@
             // dayBox6
             // 
             this.dayBox6.BackColor = System.Drawing.Color.Transparent;
-            this.dayBox6.Location = new System.Drawing.Point(154, 649);
+            this.dayBox6.Location = new System.Drawing.Point(164, 645);
             this.dayBox6.Name = "dayBox6";
             this.dayBox6.Size = new System.Drawing.Size(90, 90);
             this.dayBox6.TabIndex = 77;
@@ -289,7 +289,7 @@
             // dayBox5
             // 
             this.dayBox5.BackColor = System.Drawing.Color.Transparent;
-            this.dayBox5.Location = new System.Drawing.Point(154, 553);
+            this.dayBox5.Location = new System.Drawing.Point(164, 549);
             this.dayBox5.Name = "dayBox5";
             this.dayBox5.Size = new System.Drawing.Size(90, 90);
             this.dayBox5.TabIndex = 76;
@@ -298,7 +298,7 @@
             // dayBox4
             // 
             this.dayBox4.BackColor = System.Drawing.Color.Transparent;
-            this.dayBox4.Location = new System.Drawing.Point(154, 458);
+            this.dayBox4.Location = new System.Drawing.Point(164, 454);
             this.dayBox4.Name = "dayBox4";
             this.dayBox4.Size = new System.Drawing.Size(90, 90);
             this.dayBox4.TabIndex = 75;
@@ -307,7 +307,7 @@
             // dayBox3
             // 
             this.dayBox3.BackColor = System.Drawing.Color.Transparent;
-            this.dayBox3.Location = new System.Drawing.Point(154, 362);
+            this.dayBox3.Location = new System.Drawing.Point(164, 358);
             this.dayBox3.Name = "dayBox3";
             this.dayBox3.Size = new System.Drawing.Size(90, 90);
             this.dayBox3.TabIndex = 74;
@@ -316,7 +316,7 @@
             // dayBox2
             // 
             this.dayBox2.BackColor = System.Drawing.Color.Transparent;
-            this.dayBox2.Location = new System.Drawing.Point(154, 269);
+            this.dayBox2.Location = new System.Drawing.Point(164, 265);
             this.dayBox2.Name = "dayBox2";
             this.dayBox2.Size = new System.Drawing.Size(90, 90);
             this.dayBox2.TabIndex = 73;
@@ -325,7 +325,7 @@
             // dayBox1
             // 
             this.dayBox1.BackColor = System.Drawing.Color.Transparent;
-            this.dayBox1.Location = new System.Drawing.Point(154, 173);
+            this.dayBox1.Location = new System.Drawing.Point(164, 169);
             this.dayBox1.Name = "dayBox1";
             this.dayBox1.Size = new System.Drawing.Size(90, 90);
             this.dayBox1.TabIndex = 72;
@@ -334,7 +334,7 @@
             // dayBox0
             // 
             this.dayBox0.BackColor = System.Drawing.Color.Transparent;
-            this.dayBox0.Location = new System.Drawing.Point(154, 77);
+            this.dayBox0.Location = new System.Drawing.Point(164, 73);
             this.dayBox0.Name = "dayBox0";
             this.dayBox0.Size = new System.Drawing.Size(90, 90);
             this.dayBox0.TabIndex = 71;
