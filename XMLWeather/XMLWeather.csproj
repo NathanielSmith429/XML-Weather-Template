@@ -70,6 +70,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SearchScreen.Designer.cs">
+      <DependentUpon>SearchScreen.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="CurrentScreen.resx">
       <DependentUpon>CurrentScreen.cs</DependentUpon>
     </EmbeddedResource>
@@ -89,6 +95,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="SearchScreen.resx">
+      <DependentUpon>SearchScreen.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="app.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -102,6 +111,60 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Rain3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clearSky.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fewClouds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scatterdClouds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brokenClouds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\showerRain.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rain.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thunderstrom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snowBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rainBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mistBackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clearBackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloudBackgrounds.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thunderBackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\betterEarth.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\showerRainBackground.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
