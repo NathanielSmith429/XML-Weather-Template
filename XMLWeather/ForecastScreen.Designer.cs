@@ -444,7 +444,7 @@
             this.precipitation6.BackColor = System.Drawing.Color.Transparent;
             this.precipitation6.Font = new System.Drawing.Font("Berlin Sans FB", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.precipitation6.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.precipitation6.Location = new System.Drawing.Point(170, 726);
+            this.precipitation6.Location = new System.Drawing.Point(171, 726);
             this.precipitation6.Name = "precipitation6";
             this.precipitation6.Size = new System.Drawing.Size(34, 19);
             this.precipitation6.TabIndex = 103;
@@ -457,7 +457,7 @@
             this.precipitation5.BackColor = System.Drawing.Color.Transparent;
             this.precipitation5.Font = new System.Drawing.Font("Berlin Sans FB", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.precipitation5.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.precipitation5.Location = new System.Drawing.Point(170, 627);
+            this.precipitation5.Location = new System.Drawing.Point(171, 627);
             this.precipitation5.Name = "precipitation5";
             this.precipitation5.Size = new System.Drawing.Size(34, 19);
             this.precipitation5.TabIndex = 102;
@@ -470,7 +470,7 @@
             this.precipitation4.BackColor = System.Drawing.Color.Transparent;
             this.precipitation4.Font = new System.Drawing.Font("Berlin Sans FB", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.precipitation4.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.precipitation4.Location = new System.Drawing.Point(170, 535);
+            this.precipitation4.Location = new System.Drawing.Point(171, 535);
             this.precipitation4.Name = "precipitation4";
             this.precipitation4.Size = new System.Drawing.Size(34, 19);
             this.precipitation4.TabIndex = 101;
@@ -483,7 +483,7 @@
             this.precipitation3.BackColor = System.Drawing.Color.Transparent;
             this.precipitation3.Font = new System.Drawing.Font("Berlin Sans FB", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.precipitation3.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.precipitation3.Location = new System.Drawing.Point(170, 445);
+            this.precipitation3.Location = new System.Drawing.Point(171, 445);
             this.precipitation3.Name = "precipitation3";
             this.precipitation3.Size = new System.Drawing.Size(34, 19);
             this.precipitation3.TabIndex = 100;
@@ -496,7 +496,7 @@
             this.precipitation2.BackColor = System.Drawing.Color.Transparent;
             this.precipitation2.Font = new System.Drawing.Font("Berlin Sans FB", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.precipitation2.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.precipitation2.Location = new System.Drawing.Point(170, 349);
+            this.precipitation2.Location = new System.Drawing.Point(171, 349);
             this.precipitation2.Name = "precipitation2";
             this.precipitation2.Size = new System.Drawing.Size(34, 19);
             this.precipitation2.TabIndex = 99;
@@ -509,7 +509,7 @@
             this.precipitation1.BackColor = System.Drawing.Color.Transparent;
             this.precipitation1.Font = new System.Drawing.Font("Berlin Sans FB", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.precipitation1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.precipitation1.Location = new System.Drawing.Point(170, 249);
+            this.precipitation1.Location = new System.Drawing.Point(171, 249);
             this.precipitation1.Name = "precipitation1";
             this.precipitation1.Size = new System.Drawing.Size(34, 19);
             this.precipitation1.TabIndex = 98;
@@ -522,7 +522,7 @@
             this.precipitation0.BackColor = System.Drawing.Color.Transparent;
             this.precipitation0.Font = new System.Drawing.Font("Berlin Sans FB", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.precipitation0.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.precipitation0.Location = new System.Drawing.Point(170, 152);
+            this.precipitation0.Location = new System.Drawing.Point(171, 152);
             this.precipitation0.Name = "precipitation0";
             this.precipitation0.Size = new System.Drawing.Size(34, 19);
             this.precipitation0.TabIndex = 97;
