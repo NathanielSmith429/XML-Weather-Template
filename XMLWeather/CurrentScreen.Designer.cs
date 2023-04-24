@@ -41,6 +41,7 @@
             this.humidityLabel = new System.Windows.Forms.Label();
             this.searchLabel = new System.Windows.Forms.Label();
             this.weatherBox = new System.Windows.Forms.PictureBox();
+            this.dateLabel = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.weatherBox)).BeginInit();
             this.SuspendLayout();
             // 
@@ -50,7 +51,7 @@
             this.maxLabel.BackColor = System.Drawing.Color.Transparent;
             this.maxLabel.Font = new System.Drawing.Font("Berlin Sans FB", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.maxLabel.ForeColor = System.Drawing.Color.White;
-            this.maxLabel.Location = new System.Drawing.Point(150, 438);
+            this.maxLabel.Location = new System.Drawing.Point(158, 430);
             this.maxLabel.Name = "maxLabel";
             this.maxLabel.Size = new System.Drawing.Size(74, 35);
             this.maxLabel.TabIndex = 31;
@@ -63,7 +64,7 @@
             this.minLabel.BackColor = System.Drawing.Color.Transparent;
             this.minLabel.Font = new System.Drawing.Font("Berlin Sans FB", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.minLabel.ForeColor = System.Drawing.Color.White;
-            this.minLabel.Location = new System.Drawing.Point(269, 438);
+            this.minLabel.Location = new System.Drawing.Point(261, 430);
             this.minLabel.Name = "minLabel";
             this.minLabel.Size = new System.Drawing.Size(66, 35);
             this.minLabel.TabIndex = 29;
@@ -74,7 +75,7 @@
             // 
             this.currentOutput.BackColor = System.Drawing.Color.Transparent;
             this.currentOutput.ForeColor = System.Drawing.Color.White;
-            this.currentOutput.Location = new System.Drawing.Point(131, 136);
+            this.currentOutput.Location = new System.Drawing.Point(131, 128);
             this.currentOutput.Name = "currentOutput";
             this.currentOutput.Size = new System.Drawing.Size(22, 13);
             this.currentOutput.TabIndex = 28;
@@ -84,7 +85,7 @@
             this.tempLabel.BackColor = System.Drawing.Color.Transparent;
             this.tempLabel.Font = new System.Drawing.Font("Berlin Sans FB", 72F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tempLabel.ForeColor = System.Drawing.Color.White;
-            this.tempLabel.Location = new System.Drawing.Point(89, 184);
+            this.tempLabel.Location = new System.Drawing.Point(89, 176);
             this.tempLabel.Name = "tempLabel";
             this.tempLabel.Size = new System.Drawing.Size(357, 95);
             this.tempLabel.TabIndex = 26;
@@ -131,7 +132,7 @@
             this.cityOutput.BackColor = System.Drawing.Color.Transparent;
             this.cityOutput.Font = new System.Drawing.Font("Berlin Sans FB", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cityOutput.ForeColor = System.Drawing.Color.White;
-            this.cityOutput.Location = new System.Drawing.Point(128, 136);
+            this.cityOutput.Location = new System.Drawing.Point(128, 128);
             this.cityOutput.Name = "cityOutput";
             this.cityOutput.Size = new System.Drawing.Size(249, 48);
             this.cityOutput.TabIndex = 22;
@@ -143,7 +144,7 @@
             this.weatherLabel.BackColor = System.Drawing.Color.Transparent;
             this.weatherLabel.Font = new System.Drawing.Font("Berlin Sans FB", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.weatherLabel.ForeColor = System.Drawing.Color.White;
-            this.weatherLabel.Location = new System.Drawing.Point(128, 367);
+            this.weatherLabel.Location = new System.Drawing.Point(128, 359);
             this.weatherLabel.Name = "weatherLabel";
             this.weatherLabel.Size = new System.Drawing.Size(249, 48);
             this.weatherLabel.TabIndex = 43;
@@ -155,7 +156,7 @@
             this.windsLabel.BackColor = System.Drawing.Color.Transparent;
             this.windsLabel.Font = new System.Drawing.Font("Berlin Sans FB", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.windsLabel.ForeColor = System.Drawing.Color.White;
-            this.windsLabel.Location = new System.Drawing.Point(36, 507);
+            this.windsLabel.Location = new System.Drawing.Point(33, 503);
             this.windsLabel.Name = "windsLabel";
             this.windsLabel.Size = new System.Drawing.Size(432, 48);
             this.windsLabel.TabIndex = 45;
@@ -167,7 +168,7 @@
             this.humidityLabel.BackColor = System.Drawing.Color.Transparent;
             this.humidityLabel.Font = new System.Drawing.Font("Berlin Sans FB", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.humidityLabel.ForeColor = System.Drawing.Color.White;
-            this.humidityLabel.Location = new System.Drawing.Point(36, 555);
+            this.humidityLabel.Location = new System.Drawing.Point(33, 551);
             this.humidityLabel.Name = "humidityLabel";
             this.humidityLabel.Size = new System.Drawing.Size(432, 48);
             this.humidityLabel.TabIndex = 46;
@@ -189,18 +190,32 @@
             // weatherBox
             // 
             this.weatherBox.BackColor = System.Drawing.Color.Transparent;
-            this.weatherBox.Location = new System.Drawing.Point(200, 283);
+            this.weatherBox.Location = new System.Drawing.Point(197, 275);
             this.weatherBox.Name = "weatherBox";
             this.weatherBox.Size = new System.Drawing.Size(97, 81);
             this.weatherBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.weatherBox.TabIndex = 44;
             this.weatherBox.TabStop = false;
             // 
+            // dateLabel
+            // 
+            this.dateLabel.BackColor = System.Drawing.Color.Transparent;
+            this.dateLabel.Font = new System.Drawing.Font("Berlin Sans FB", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dateLabel.ForeColor = System.Drawing.Color.White;
+            this.dateLabel.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.dateLabel.Location = new System.Drawing.Point(33, 599);
+            this.dateLabel.Name = "dateLabel";
+            this.dateLabel.Size = new System.Drawing.Size(432, 51);
+            this.dateLabel.TabIndex = 90;
+            this.dateLabel.Text = "Day";
+            this.dateLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
             // CurrentScreen
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
+            this.Controls.Add(this.dateLabel);
             this.Controls.Add(this.searchLabel);
             this.Controls.Add(this.humidityLabel);
             this.Controls.Add(this.windsLabel);
@@ -236,5 +251,6 @@
         private System.Windows.Forms.Label windsLabel;
         private System.Windows.Forms.Label humidityLabel;
         private System.Windows.Forms.Label searchLabel;
+        private System.Windows.Forms.Label dateLabel;
     }
 }

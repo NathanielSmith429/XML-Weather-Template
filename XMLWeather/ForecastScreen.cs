@@ -18,6 +18,9 @@ namespace XMLWeather
         List <PictureBox> pictureBoxes = new List<PictureBox>();
 
         List<Label> highTempature = new List<Label>();
+        List<Label> lowTempature = new List<Label>();
+
+        List<Label> precipitation = new List<Label>();
 
         public ForecastScreen()
         {
@@ -50,7 +53,23 @@ namespace XMLWeather
             highTempature.Add(dayMax5);
             highTempature.Add(dayMax6);
 
+            //adding min temps
+            lowTempature.Add(dayMin0);
+            lowTempature.Add(dayMin1);
+            lowTempature.Add(dayMin2);
+            lowTempature.Add(dayMin3);
+            lowTempature.Add(dayMin4);
+            lowTempature.Add(dayMin5);
+            lowTempature.Add(dayMin6);
 
+            // adding precipitation
+            precipitation.Add(precipitation0);
+            precipitation.Add(precipitation1);
+            precipitation.Add(precipitation2);
+            precipitation.Add(precipitation3);
+            precipitation.Add(precipitation4);
+            precipitation.Add(precipitation5);
+            precipitation.Add(precipitation6);
 
             displayForecast();
         }
@@ -63,6 +82,10 @@ namespace XMLWeather
                 weekday[i].Text = Form1.days[i].dayOfWeek;
 
                 highTempature[i].Text = $"{Math.Round(Convert.ToDouble(Form1.days[i].tempHigh))}°";
+
+                lowTempature[i].Text = $"{Math.Round(Convert.ToDouble(Form1.days[i].tempLow))}°";
+
+                precipitation[i].Text = $"{(Convert.ToDouble(Form1.days[i].precipitationChance)*100)}%";
 
                 outsideWeather = Convert.ToDouble(Form1.days[i].weatherNumber);
 
@@ -103,7 +126,8 @@ namespace XMLWeather
                     BackgroundImage = Properties.Resources.cloudBackgrounds;
                 }
             }
-          
+
+
         }
 
         private void todayScreen_Click(object sender, EventArgs e) //changing to current screen

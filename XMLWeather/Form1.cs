@@ -48,11 +48,13 @@ namespace XMLWeather
                 d.date = reader.GetAttribute("day");
                 d.dayOfWeek =  Convert.ToDateTime(reader.GetAttribute("day")).ToString("dddd");
 
-
-
-
                 reader.ReadToFollowing("symbol");
                 d.weatherNumber = reader.GetAttribute("number");
+
+                reader.ReadToFollowing("precipitation");
+
+                d.precipitationChance = reader.GetAttribute("probability");
+                d.precipitationType = reader.GetAttribute("type");  
 
                 reader.ReadToFollowing("temperature");
                 d.tempLow = reader.GetAttribute("min");

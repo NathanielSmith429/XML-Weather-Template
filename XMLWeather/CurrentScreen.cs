@@ -23,6 +23,7 @@ namespace XMLWeather
         outsideWeather = Convert.ToDouble(Form1.days[0].weatherNumber);
 
             cityOutput.Text = $"{Form1.days[0].location}";
+            dateLabel.Text = $"{Form1.days[0].date}";   
             tempLabel.Text = $"{Math.Round(Convert.ToDouble(Form1.days[0].currentTemp))}°"; // displaying all important weather information
             minLabel.Text = $"L: {Math.Round(Convert.ToDouble(Form1.days[0].tempLow))}°";
             maxLabel.Text = $"H: {Math.Round(Convert.ToDouble(Form1.days[0].tempHigh))}°";
